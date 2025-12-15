@@ -1,0 +1,4 @@
+# file: D:\codes\lab5\models\category.py
+# hypothesis_version: 6.148.7
+
+['Category', 'create_time', 'id', 'name', 'type', 'user_id']

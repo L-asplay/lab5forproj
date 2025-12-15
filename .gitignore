@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.conda/
+.pytest_cache/
+htmlcov/
+.coverage
+fuzz_results/
+*.log
+local_db/

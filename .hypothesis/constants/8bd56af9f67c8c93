@@ -1,0 +1,4 @@
+# file: D:\codes\lab5\services\record_service.py
+# hypothesis_version: 6.148.7
+
+['%Y-%m-%d %H:%M:%S', 'amount', 'amount 必须为正数', 'categories', 'category', 'create_time', 'id', 'max_amount', 'min_amount', 'month', 'name', 'records', 'type', "type 必须是 '收入' 或 '支出'", 'user_id', '支出', '收入']

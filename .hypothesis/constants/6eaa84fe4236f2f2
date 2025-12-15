@@ -1,0 +1,4 @@
+# file: D:\codes\lab5\models\record.py
+# hypothesis_version: 6.148.7
+
+['%Y-%m-%d %H:%M:%S', 'Record', 'amount', 'category', 'create_time', 'description', 'id', 'type', 'user_id', '支出', '收入']
